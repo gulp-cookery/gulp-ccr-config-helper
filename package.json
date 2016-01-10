@@ -1,0 +1,51 @@
+{
+  "name": "gulp-ccr-config-helper",
+  "version": "0.1.0",
+  "description": "Configuration helper functions for cascading configurable Gulp recipes for gulp-chef.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gulp-cookery/gulp-ccr-config-helper.git"
+  },
+  "keywords": [
+	"gulp",
+    "gulp 4.0",
+	"gulp-cookery",
+	"gulp-chef",
+    "gulp-ccr",
+    "configurable-gulp-recipe",
+    "configurable-gulp-recipes",
+	"cookery",
+	"chef",
+    "recipe",
+    "recipes",
+	"config",
+	"configs",
+	"configuration",
+	"configurations",
+    "helper",
+    "utility",
+    "plugin",
+    "plugins"
+  ],
+  "author": "Amobiz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gulp-cookery/gulp-ccr-config-helper/issues"
+  },
+  "homepage": "https://github.com/gulp-cookery/gulp-ccr-config-helper#readme",
+  "devDependencies": {
+    "mocha": "^2.3.4",
+    "mocha-cases": "^0.1.4"
+  },
+  "dependencies": {
+    "gulp-util": "^3.0.7",
+    "lodash": "^3.10.1"
+  }
+}
