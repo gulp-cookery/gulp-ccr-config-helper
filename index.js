@@ -12,7 +12,7 @@ function verify(rootSchema, rootConfig) {
 	}
 
 	function _entry(name, schema, config) {
-		_object() || _array();
+		schema && (_object() || _array());
 
 		function _object() {
 			if (_strict('object') || _loose('object', _.isPlainObject) || _implicit()) {
