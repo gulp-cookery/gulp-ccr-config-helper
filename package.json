@@ -1,7 +1,7 @@
 {
   "name": "gulp-ccr-config-helper",
   "version": "0.1.0",
-  "description": "Configuration helper functions for cascading configurable Gulp recipes for gulp-chef.",
+  "description": "Configuration helper functions. A cascading configurable gulp recipe for gulp-chef.",
   "main": "index.js",
   "directories": {
     "test": "test"
