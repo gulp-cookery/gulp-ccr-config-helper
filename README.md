@@ -38,3 +38,9 @@ module.exports = function (done) {
 module.exports.schema = schema;
 module.exports.type = 'task';
 ```
+
+## License
+[MIT](https://opensource.org/licenses/MIT)
+
+## Author
+[Amobiz](https://github.com/amobiz)
